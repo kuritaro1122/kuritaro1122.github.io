@@ -297,6 +297,7 @@
 
 .u-section-7 .u-text-1 {
   font-family: Acme;
+  font-size: 4.5rem;
   margin: 0 auto;
 }
 
@@ -463,6 +464,7 @@
   .u-section-7 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
+    font-size: 3.75rem;
   }
 
   .u-section-7 .u-gallery-1 {
@@ -520,11 +522,11 @@
   }
 
   .u-section-7 .u-custom-html-1 {
-    margin-top: 20px;
+    margin-top: 17px;
   }
 
   .u-section-7 .u-btn-1 {
-    margin-top: 12px;
+    margin-top: 15px;
   }
 } .u-section-8 {
   background-image: none;
